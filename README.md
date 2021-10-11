@@ -4,3 +4,5 @@
 2. Make sure the folder structure is as follows: ./images pytorch then add subfolders like ./images-pytorch/person-1 ./images-pytorch/person-2
 3. then run the trainer.py and save the weight file.
 4. Finally run the Face-Recognition.py 
+
+The application is working fine on Windows and Linux, Haven't tested it on Mac! 
